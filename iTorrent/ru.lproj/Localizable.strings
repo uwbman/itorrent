@@ -193,8 +193,15 @@
 "Settings.Network.PortFirst" = "Начальный";
 "Settings.Network.PortSecond" = "Конечный";
 "Settings.Network.Interface" = "Сетевой интерфейс";
-"Settings.Network.Interface.VpnOnly" = "VPN только";
-"Settings.Network.Interface.AnyInterface" = "Любой";
+"Settings.Network.Interface.Title" = "Режим";
+"Settings.Network.Interface.Hint" = "#ADD HINT#";
+"Settings.Network.Interface.Select" = "Выберите режим интерфейса";
+"Settings.Network.Interface.SelectInterface" = "Выберите интерфейс";
+
+"InterfaceType.All" = "Все";
+"InterfaceType.Primary" = "Основные";
+"InterfaceType.VpnOnly" = "Только VPN";
+"InterfaceType.Manual" = "Вручную";
 
 "Settings.NotifyFinishLoad" = "По окончании загрузки";
 "Settings.NotifyFinishSeed" = "По окончании раздачи";
@@ -354,4 +361,4 @@
 
 //Version Info
 "info" = " Изменения";
-"UpdateText" = "- Фикс Патреона для iOS 14\n- Libtorrent обновлён до 1.2.10\n--- 1.8.2 ---\n- Добавлена поддержка шрифтов для слабовидящих\n- Переработан iTorrent Framework\n- Некоторые улучшения интерфейса\n- Исправлено множество ошибок (возможно добавлены новые)";
+"UpdateText" = "\n--- 1.8.3 ---\n- Фикс Патреона для iOS 14\n- Libtorrent обновлён до 1.2.10\n--- 1.8.2 ---\n- Добавлена поддержка шрифтов для слабовидящих\n- Переработан iTorrent Framework\n- Некоторые улучшения интерфейса\n- Исправлено множество ошибок (возможно добавлены новые)";

@@ -193,8 +193,15 @@
 "Settings.Network.PortFirst" = "Start";
 "Settings.Network.PortSecond" = "End";
 "Settings.Network.Interface" = "Interface";
-"Settings.Network.Interface.VpnOnly" = "VPN only";
-"Settings.Network.Interface.AnyInterface" = "Any";
+"Settings.Network.Interface.Title" = "Mode";
+"Settings.Network.Interface.Hint" = "#ADD HINT#";
+"Settings.Network.Interface.Select" = "Select interface mode";
+"Settings.Network.Interface.SelectInterface" = "Select interface";
+
+"InterfaceType.All" = "All";
+"InterfaceType.Primary" = "Primary";
+"InterfaceType.VpnOnly" = "VPN Only";
+"InterfaceType.Manual" = "Manual";
 
 "Settings.NotifyFinishLoad" = "İndirme bittiğinde";
 "Settings.NotifyFinishSeed" = "Seedleme bittiğinde";
@@ -347,4 +354,4 @@
 
 //Version Info
 "info" = " Güncelleme bilgisi";
-"UpdateText" = "- Patreon fix for iOS 14\n- Libtorrent updated to 1.2.10\n--- 1.8.2 ---\n- Text accessability support added\n- Huge backend refactoring\n- Minor UI improvements\n- Many bugs fixed (possibly new ones added)";
+"UpdateText" = "\n--- 1.8.3 ---\n- Patreon fix for iOS 14\n- Libtorrent updated to 1.2.10\n--- 1.8.2 ---\n- Text accessability support added\n- Huge backend refactoring\n- Minor UI improvements\n- Many bugs fixed (possibly new ones added)";
